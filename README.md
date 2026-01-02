@@ -46,7 +46,7 @@ This study presents **P-ML**, an end-to-end AutoML framework for deploying class
 
 **Categories:** B.4.2 (Embedded Systems), C.3.3 (Real-time and Embedded Systems), I.2.6 (Learning)
 
-**DOI:** [[10.5281/zenodo.18130146](https://doi.org/10.5281/zenodo.18130146)]
+**DOI:** [https://doi.org/10.5281/zenodo.18130146]
 
 ---
 
@@ -332,6 +332,7 @@ If you use P-ML in your research or projects, please cite:
 © 2026 Huu-Phuoc Nguyen, Can Tho University
 
 </div>
+
 
 
 
