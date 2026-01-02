@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-Academic_Use_Only-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Arduino%20%7C%20ESP32-green.svg)](README.md)
 [![Python](https://img.shields.io/badge/Python-3.7%2B-yellow.svg)](README.md)
-[![DOI](https://img.shields.io/badge/DOI-10.3897%2Fjucs-orange.svg)](https://doi.org/10.xxxx/zenodo.xxxxxxx)
+[![DOI](https://img.shields.io/badge/DOI-10.3897%2Fjucs-orange.svg)](https://doi.org/10.5281/zenodo.18130146)
 
 **By Huu-Phuoc Nguyen**  
 Can Tho University, Can Tho, Vietnam
@@ -46,7 +46,7 @@ This study presents **P-ML**, an end-to-end AutoML framework for deploying class
 
 **Categories:** B.4.2 (Embedded Systems), C.3.3 (Real-time and Embedded Systems), I.2.6 (Learning)
 
-**DOI:** 10.3897/jucs.[SubmissionNumber]
+**DOI:** [[10.5281/zenodo.18130146](https://doi.org/10.5281/zenodo.18130146)]
 
 ---
 
@@ -332,5 +332,6 @@ If you use P-ML in your research or projects, please cite:
 © 2026 Huu-Phuoc Nguyen, Can Tho University
 
 </div>
+
 
 
