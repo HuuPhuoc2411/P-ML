@@ -151,7 +151,7 @@ The uploaded dataset must satisfy the following conditions:
 - A column named **Class** is mandatory, as it contains the ground-truth labels. If this column is missing, the system will raise an error.
 - Feature column names can be arbitrary and user-defined.
 
-A sample dataset file is available at the provided reference link.
+A sample dataset file is available at the provided reference link [DATA_SAMPLE](DATA_SAMPLE.xlsx)
 
 #### Data Upload Options
 
@@ -332,6 +332,7 @@ If you use P-ML in your research or projects, please cite:
 © 2026 Huu-Phuoc Nguyen, Can Tho University
 
 </div>
+
 
 
 
