@@ -10,7 +10,7 @@
 **By Huu-Phuoc Nguyen**  
 Can Tho University, Can Tho, Vietnam
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--5822--4121-green.svg)](https://orcid.org/0009-0006-5822-4121) • [![Email](https://img.shields.io/badge/Email-huuphuoc081102%40gmail.com-red.svg)](mailto:huuphuoc081102@gmail.com)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--5822--4121-green.svg)](https://orcid.org/0009-0006-5822-4121) • [![Email](https://img.shields.io/badge/Email-huuphuoc.research%40gmail.com-red.svg)](mailto:huuphuoc.research@gmail.com)
 
 </div>
 
@@ -324,7 +324,7 @@ If you use P-ML in your research or projects, please cite:
 **Made with ❤️ for the Embedded Machine Learning Community**
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--5822--4121-green.svg)](https://orcid.org/0009-0006-5822-4121)
-[![Email](https://img.shields.io/badge/Email-huuphuoc081102%40gmail.com-red.svg)](mailto:huuphuoc081102@gmail.com)
+[![Email](https://img.shields.io/badge/Email-huuphuoc.research%40gmail.com-red.svg)](mailto:huuphuoc.research@gmail.com)
 
 ---
 
@@ -332,6 +332,7 @@ If you use P-ML in your research or projects, please cite:
 © 2026 Huu-Phuoc Nguyen, Can Tho University
 
 </div>
+
 
 
 
