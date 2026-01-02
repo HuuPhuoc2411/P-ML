@@ -124,9 +124,14 @@ In summary, the entire conversion process does not rely on approximation or retr
 
 ### 3.1 Running the Code on Google Colab
 
-To begin, access the P-ML source code via the provided Google Colab link. Once opened, save a personal copy of the notebook to your own Google Drive to enable editing and execution.
+To facilitate reproducibility and ease of access, the P-ML framework is publicly shared as a Google Colab notebook.
 
-After saving, simply run the existing code cells in order. The notebook will automatically install all required dependencies. Once the setup process is complete, a URL pointing to the graphical user interface (GUI) will be printed in the output. Click this link to open the P-ML web interface in a new browser tab and start working with the system.
+The notebook can be accessed via the following link:
+Google Colab: [[COLAB_LINK](https://colab.research.google.com/drive/1G3PQG_6mmQgMDnm88vhXh-duST0GOgO2?usp=sharing)]
+
+Upon opening the link, users are strongly encouraged to create a personal copy by selecting File → Save a copy in Drive. This ensures that the notebook can be edited and executed without affecting the original version.
+
+After saving a copy, the code cells should be executed sequentially from top to bottom. The notebook automatically installs all required Python dependencies and initializes the execution environment. Once the setup process is complete, a URL pointing to the graphical user interface (GUI) will be displayed in the output cell. By clicking this URL, users will be redirected to the P-ML web-based interface in a new browser tab, where they can upload data, configure experiments, train models, and generate embedded libraries.
 
 <div align="center">
 <img src="images/link.png" alt="Link to the P-ML graphical interface" width="90%"/>
@@ -327,4 +332,5 @@ If you use P-ML in your research or projects, please cite:
 © 2026 Huu-Phuoc Nguyen, Can Tho University
 
 </div>
+
 
