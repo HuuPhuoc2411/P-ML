@@ -1,0 +1,58 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  P-ML: An End-to-End AutoML Framework for Deploying
+  Classical Machine Learning Models on Resource-Constrained
+  Devices
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Huu-Phuoc
+    family-names: Nguyen
+    email: huuphuoc081102@gmail.com
+    affiliation: Can Tho University
+    orcid: 'https://orcid.org/0009-0006-5822-4121'
+identifiers:
+  - type: doi
+    value: 10.3897/jucs.[SubmissionNumber]
+    description: Paper DOI
+  - type: doi
+    value: 10.xxxx/zenodo.xxxxxxx
+    description: Zenodo DOI
+repository-code: 'https://github.com/your-username/P-ML'
+abstract: >-
+  P-ML is an end-to-end AutoML framework for deploying
+  classical machine learning models on memory-constrained
+  microcontrollers. The framework automates the complete
+  workflow, including data splitting, model selection,
+  hyperparameter optimization, and generation of optimized
+  Arduino-compatible C++ libraries. P-ML integrates
+  Optuna-based hyperparameter tuning with stratified data
+  splitting methods such as SPXY and K-Fold cross-validation
+  to ensure robust and reliable model selection. The
+  generated libraries are compact, efficient, and directly
+  deployable on Arduino Uno, Nano, and ESP32 platforms using
+  the Arduino IDE. Experimental results demonstrate that
+  P-ML enables accurate sensor data classification,
+  achieving over 90% accuracy while maintaining a small
+  memory footprint suitable for embedded IoT applications.
+keywords:
+  - AutoML
+  - Embedded Machine Learning
+  - Resource-Constrained Systems
+  - Classical ML
+  - Hyperparameter Tuning
+  - Arduino Code Generation
+  - TinyML
+  - Arduino
+  - ESP32
+  - IoT
+  - Machine Learning
+  - Embedded Systems
+license: CC-BY-NC-4.0
+version: 1.0.0
+date-released: '2026-01-02'
