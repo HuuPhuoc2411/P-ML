@@ -129,7 +129,7 @@ To begin, access the P-ML source code via the provided Google Colab link. Once o
 After saving, simply run the existing code cells in order. The notebook will automatically install all required dependencies. Once the setup process is complete, a URL pointing to the graphical user interface (GUI) will be printed in the output. Click this link to open the P-ML web interface in a new browser tab and start working with the system.
 
 <div align="center">
-<img src="images/colab_interface.png" alt="Link to the P-ML graphical interface" width="600"/>
+<img src="images/link.png" alt="Link to the P-ML graphical interface" width="90%"/>
 
 *Figure 1: Link to the P-ML graphical interface*
 </div>
@@ -157,7 +157,7 @@ P-ML supports two different data upload scenarios:
 If your data has not been pre-split, upload a single Excel file containing the full dataset. The system will automatically apply the SPXY algorithm to split the data into training and testing sets using a default ratio of 70/30 (which can be adjusted by the user). The generated training and testing datasets are also saved as separate Excel files, allowing them to be reused in future experiments.
 
 <div align="center">
-<img src="images/single_file_upload.png" alt="Uploading a single dataset for automatic SPXY splitting" width="650"/>
+<img src="images/upload.png" alt="Uploading a single dataset for automatic SPXY splitting" width="90%"/>
 
 *Figure 3: Uploading a single dataset for automatic SPXY splitting*
 </div>
@@ -167,9 +167,9 @@ If your data has not been pre-split, upload a single Excel file containing the f
 If you have already prepared separate training and testing files, upload them directly using the corresponding fields under Option 2: Pre-split Files.
 
 <div align="center">
-<img src="images/presplit_upload.png" alt="Uploading pre-split training and testing files" width="650"/>
+<img src="images/menu tong.png" alt="Uploading pre-split training and testing files" width="90%"/>
 
-*Figure 2: Uploading pre-split training and testing files*
+*Figure 2: menu Uploading files*
 </div>
 
 After uploading, the system displays class distribution plots for both training and testing sets. These plots allow users to visually verify whether the class proportions are balanced across the two splits. Ideally, similar distributions indicate a successful and reliable split.
@@ -192,13 +192,13 @@ Next, the user selects the models to be trained under "Select model groups to tr
 Finally, the training process is initiated by clicking the **Train** button. Depending on the dataset size, number of selected models, and training trials, this process may take a considerable amount of time.
 
 <div align="center">
-<img src="images/training_config.png" alt="Training configuration interface" width="700"/>
+<img src="images/chon tham so train.png" alt="Training configuration interface" width="90%"/>
 
 *Figure 4: Training configuration interface*
 </div>
 
 <div align="center">
-<img src="images/model_group_selection.png" alt="Model group selection" width="650"/>
+<img src="images/chon mo hinh train.png" alt="Model group selection" width="90%"/>
 
 *Figure 5: Model group selection*
 </div>
@@ -212,7 +212,7 @@ Seven different filtering criteria are available to help identify the best-perfo
 A special **Manual Selection** option is also provided. When enabled, users can explicitly choose specific models by entering their corresponding indices from the displayed list, bypassing automatic performance-based ranking. This is particularly useful when certain models are preferred for practical or experimental reasons.
 
 <div align="center">
-<img src="images/model_filtering.png" alt="Model filtering and manual selection interface" width="700"/>
+<img src="images/chon lai mo hinh.png" alt="Model filtering and manual selection interface" width="120%"/>
 
 *Figure 6: Model filtering and manual selection interface*
 </div>
@@ -231,16 +231,11 @@ Each generated prediction function is automatically named based on the original 
 After configuration, clicking the **Generate** button initiates the library generation process, which converts the selected models into optimized C/C++ code suitable for the chosen microcontroller platform.
 
 <div align="center">
-<img src="images/library_naming.png" alt="Library naming and function configuration" width="650"/>
+<img src="images/tao thu vien.png" alt="Library naming and function configuration" width="120%"/>
 
 *Figure 7: Library naming and function configuration*
 </div>
 
-<div align="center">
-<img src="images/generation_process.png" alt="Library generation process" width="600"/>
-
-*Figure 8: Library generation process*
-</div>
 
 ### 3.6 Downloading the Results
 
@@ -249,9 +244,9 @@ In the final step, users can download all generated outputs. Clicking the **Down
 Due to Google Colab's interface behavior, users may need to click the download location again, as indicated in the interface, to complete the file transfer to their local machine.
 
 <div align="center">
-<img src="images/download_archive.png" alt="Downloading the generated archive" width="600"/>
+<img src="images/tai xuong.png" alt="Downloading the generated archive" width="90%"/>
 
-*Figure 9: Downloading the generated archive*
+*Figure 8: Downloading the generated archive*
 </div>
 
 ### 3.7 Output File Structure
@@ -332,3 +327,4 @@ If you use P-ML in your research or projects, please cite:
 © 2026 Huu-Phuoc Nguyen, Can Tho University
 
 </div>
+
