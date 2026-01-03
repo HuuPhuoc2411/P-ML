@@ -1,4 +1,4 @@
-# 🤖 P-ML: An End-to-End AutoML Framework for Deploying Classical Machine Learning Models on Resource-Constrained Devices
+# 🤖 P-ML: An End-to-End AutoML Framework for Deploying Classical Machine Learning Models on ESP32 and Arduino Microcontrollers
 
 <div align="center">
 
@@ -96,6 +96,7 @@ If you use P-ML in your research or projects, please cite:
 © 2026 Huu-Phuoc Nguyen, Can Tho University
 
 </div>
+
 
 
 
