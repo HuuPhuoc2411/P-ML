@@ -26,8 +26,10 @@ This study presents **P-ML**, an end-to-end AutoML framework for deploying class
 
 **DOI:** [https://doi.org/10.5281/zenodo.18130146]
 
-See the English user manual here: [https://doi.org/10.5281/zenodo.18130146]
-See the Vietnam user manual here:
+See the English user manual here: [link](GuideAutoML-Eng.pdf)
+
+See the Vietnam user manual here: [link](GuideAutoML-Vi.pdf)
+
 ---
 
 ## 🚀 Introduction
@@ -94,6 +96,7 @@ If you use P-ML in your research or projects, please cite:
 © 2026 Huu-Phuoc Nguyen, Can Tho University
 
 </div>
+
 
 
 
